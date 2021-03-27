@@ -1,9 +1,11 @@
 ## _proyecto de Desarrollo de aplicaciones_ 
 ```
-Este es una aplicacion web de animes, con el nombre de anime costos. 
+este es un trabajo final del politetecnico. una app web para ver animes cortos. 
 ```
 ---
 # *Creadores*
 * [Samuel Ángeles](https://github.com/5samuel)
 
 * [Jefferson Hidalgo](https://github.com/JeffersonHidalgo)
+
+* [Amy](https://github.com/Amy006)
