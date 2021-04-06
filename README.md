@@ -9,3 +9,4 @@ este es un trabajo final del politetecnico. una app web para ver animes cortos.
 * [Jefferson Hidalgo](https://github.com/JeffersonHidalgo)
 
 * [Amy](https://github.com/Amy006)
+* [Nanyelo](https://github.com/nanyelofe123)
