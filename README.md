@@ -1,6 +1,7 @@
 ## _proyecto de Desarrollo de aplicaciones_ 
 ```
-este es un trabajo final del politetecnico. una app web para ver animes cortos. 
+Este es un trabajo final del politetecnico.🇩🇴 una app web para ver animes cortos. 
+Que quede Claro solo trabajamos 2 personas
 ```
 ---
 # *Creadores*
